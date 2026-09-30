@@ -453,8 +453,8 @@ Model Evaluation
 <h2>👨‍💻 Author</h2>
 
 <p>
-<b>Your Name</b><br>
-Machine Learning &amp; Data Analytics Project
+<b>Your Name: Kanishk Khichar</b><br>
+If you like this project, please give me star.
 </p>
 
 <h2>⭐ Project Summary</h2>
